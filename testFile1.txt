@@ -1,3 +1,2 @@
 line1 in testFile1
 line2 in testFile1
-line3 in testFile1
