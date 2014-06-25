@@ -1,1 +1,2 @@
 line1 in textFile2
+line2 in textFile2
