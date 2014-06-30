@@ -1,2 +1,3 @@
 line0 in testFile3
 line1 in testFile3
+line2 in testFile3
