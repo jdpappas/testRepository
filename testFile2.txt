@@ -1,7 +1,4 @@
 line1 in textFile2
 line2 in textFile2
-<<<<<<< HEAD
 line3 in textFile2
-=======
-line3 in textFile2
->>>>>>> 6751705... line3 added to 3rd txt file
+line4 in textFile2
