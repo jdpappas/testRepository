@@ -3,4 +3,4 @@ line2 in testFile1
 line3 in testFile1
 saved state
 line4
-line6
+line5
